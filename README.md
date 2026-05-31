@@ -20,7 +20,6 @@ Features include:
 - Hardware navigation using buttons
 
 
-
 ## Features
 
 ### Wi-Fi Tools
