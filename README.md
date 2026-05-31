@@ -1,6 +1,4 @@
-# FrogOS
-
-<img width="128" height="64" alt="download" src="https://github.com/user-attachments/assets/8524e0f2-6a97-4f61-85df-e73b203592f7" />
+# FrogOS <img width="128" height="64" alt="download" src="https://github.com/user-attachments/assets/8524e0f2-6a97-4f61-85df-e73b203592f7" />
 
 
 A Flipper-inspired toolkit built for the Raspberry Pi Pico W using CircuitPython.
