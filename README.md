@@ -28,17 +28,34 @@ Features include:
 - Device network information
 - Create access points
 
-### HID Tools
-- Keyboard emulation
-- Mouse emulation
-- Virtual keyboard
 
-### Utilities
+### BadUSB
+- Bad USB payloads 30+
+- Payload examples: Get wifi passwords, get user location, get user name and Blackout.
+
+
+### Mouse Tools
+- Virtual mouse
 - Mouse jiggler
 - Auto clicker
-- Scroll spam
-- System monitor
+- scroll spam
 
+
+### Keyboard Tools
+- Virtual keyboard
+- Keyboard tester
+- 
+
+### Password brute force
+- Top 100 passwords
+- Top 500 passwords
+- Top 1000 passwords
+
+### System Info
+- CPU
+- Temp
+- Ram
+- IP
 
 
 ## Hardware
