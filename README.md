@@ -29,27 +29,26 @@ Features include:
 - Create access points
 
 
-### BadUSB
-- Bad USB payloads 30+
-- Payload examples: Get wifi passwords, get user location, get user name and Blackout.
+### HID / Security Testing Tools
+- 30+ HID automation payloads for testing keyboard/mouse injection behavior
+- Example payloads include system info retrieval, UI automation, and network info display (for authorized testing only)
 
 
 ### Mouse Tools
 - Virtual mouse
 - Mouse jiggler
 - Auto clicker
-- scroll spam
+- Scroll spam
 
 
 ### Keyboard Tools
 - Virtual keyboard
 - Keyboard tester
-- 
 
-### Password brute force
-- Top 100 passwords
-- Top 500 passwords
-- Top 1000 passwords
+
+### Password Input Tester
+- Sends common password lists (Top 100 / 500 / 1000) to test authentication input handling
+- 
 
 ### System Info
 - CPU
@@ -78,3 +77,7 @@ An installation guide and hardware setup instructions will be published when the
 ## Disclaimer
 
 This project is intended for education, hardware experimentation, and testing on systems you own or are authorized to use. Users are responsible for complying with all applicable laws, regulations, and policies.
+
+FrogOS includes HID and automation features that can simulate keyboard and mouse input.
+
+These features should only be used on devices you own or have explicit permission to test.
