@@ -29,9 +29,9 @@ Features include:
 - Create access points
 
 
-### HID / Security Testing Tools
-- 30+ HID automation payloads for testing keyboard/mouse injection behavior
-- Example payloads include system info retrieval, UI automation, and network info display (for authorized testing only)
+### HID / Automation Tools
+- 30+ HID automation scripts for testing keyboard and mouse injection behavior
+- Includes system interaction, UI automation, and network information display (authorized testing only)
 
 
 ### Mouse Tools
@@ -47,13 +47,13 @@ Features include:
 
 
 ### Password Input Tester
-- Sends common password lists (Top 100 / 500 / 1000) to test authentication input handling
-- 
+- Sends predefined password lists (Top 100 / 500 / 1000) to test input handling and authentication UI behavior
+
 
 ### System Info
 - CPU
 - Temp
-- Ram
+- RAM
 - IP
 
 
@@ -76,8 +76,8 @@ An installation guide and hardware setup instructions will be published when the
 
 ## Disclaimer
 
-This project is intended for education, hardware experimentation, and testing on systems you own or are authorized to use. Users are responsible for complying with all applicable laws, regulations, and policies.
+This project is intended for education, hardware experimentation, and testing on devices you own or are explicitly authorized to use.
 
 FrogOS includes HID and automation features that can simulate keyboard and mouse input.
 
-These features should only be used on devices you own or have explicit permission to test.
+Users are responsible for complying with all applicable laws and regulations.
