@@ -76,7 +76,7 @@ An installation guide and hardware setup instructions will be published when the
 
 ## ⚠️ Disclaimer
 
-This project is intended for education, hardware experimentation, and testing on devices you own or are explicitly authorized to use.
+This project is intended for educational purposes only, hardware experimentation, and testing on devices you own or are explicitly authorized to use.
 
 FrogOS includes HID and automation features that can simulate keyboard and mouse input.
 
