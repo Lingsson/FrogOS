@@ -51,6 +51,12 @@ Required:
 - Jumper wires
 
 
+## Installation
+
+- Right now it's under development and is projected to be done sometime this summer.
+- Installation guide will then be uploaded.
+
+
 ## Disclaimer
 
 This project is intended for education, hardware experimentation,
