@@ -74,7 +74,7 @@ FrogOS is currently under active development and is not yet ready for general us
 An installation guide and hardware setup instructions will be published when the first public release is available.
 
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 This project is intended for education, hardware experimentation, and testing on devices you own or are explicitly authorized to use.
 
