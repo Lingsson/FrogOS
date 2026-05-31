@@ -1,4 +1,6 @@
-# FrogOS 
+# FrogOS
+
+> ⚠️ This project is currently under active development and features may change.
 <img width="128" height="64" alt="download" src="https://github.com/user-attachments/assets/8524e0f2-6a97-4f61-85df-e73b203592f7" />
 
 
