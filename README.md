@@ -73,7 +73,8 @@ FrogOS is currently under active development and is not yet ready for general us
 
 An installation guide and hardware setup instructions will be published when the first public release is available.
 
-If you want to see HID made for FrogOS go to: https://github.com/Lingsson/payloads 
+For HID modules used in FrogOS, go to:
+https://github.com/Lingsson/payloads
 
 ## ⚠️ Disclaimer
 
