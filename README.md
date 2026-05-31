@@ -59,5 +59,4 @@ Required:
 
 ## Disclaimer
 
-This project is intended for education, hardware experimentation,
-and testing on systems you own or are authorized to test.
+This project is intended for education, hardware experimentation, and testing on systems you own or are authorized to use. Users are responsible for complying with all applicable laws, regulations, and policies.
