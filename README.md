@@ -1,2 +1,2 @@
-# Raspberry-pi-pico-toolkit
-Project to make the pi pico into a bad usb +more
+# FrogOS
+A Flipper-inspired toolkit built for the Raspberry Pi Pico W using CircuitPython.
