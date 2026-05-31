@@ -53,8 +53,8 @@ Required:
 
 ## Installation
 
-- Right now it's under development and is projected to be done sometime this summer.
-- Installation guide will then be uploaded.
+FrogOS is currently under active development and is not yet ready for general use.
+An installation guide and hardware setup instructions will be published when the first public release is available.
 
 
 ## Disclaimer
