@@ -54,6 +54,7 @@ Required:
 ## Installation
 
 FrogOS is currently under active development and is not yet ready for general use.
+
 An installation guide and hardware setup instructions will be published when the first public release is available.
 
 
