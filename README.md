@@ -9,17 +9,6 @@
 
 FrogOS is a multi-tool firmware for the Raspberry Pi Pico W.
 
-Features include:
-
-- OLED menu system
-- Wi-Fi scanning tools
-- USB HID keyboard tools
-- Mouse utilities
-- Virtual keyboard
-- System information
-- Hardware navigation using buttons
-
-
 ## Features
 
 ### Wi-Fi Tools
@@ -30,7 +19,7 @@ Features include:
 
 
 ### HID / Automation Tools
-- 30+ HID automation scripts for testing keyboard and mouse injection behavior
+- 30+ BADUSB payloads
 - Includes system interaction, UI automation, and network information display (authorized testing only)
 
 
@@ -46,8 +35,8 @@ Features include:
 - Keyboard tester
 
 
-### Password Input Tester
-- Sends predefined password lists (Top 100 / 500 / 1000) to test input handling and authentication UI behavior
+### password brute force
+- Sends predefined password lists (Top 100 / 500 / 1000 / 5000 / 10000) most common passwords from real data breach.
 
 
 ### System Info
