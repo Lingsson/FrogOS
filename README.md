@@ -75,11 +75,3 @@ An installation guide and hardware setup instructions will be published when the
 
 For HID modules used in FrogOS, go to:
 https://github.com/Lingsson/payloads
-
-## ⚠️ Disclaimer
-
-This project is intended for educational purposes only, hardware experimentation, and testing on devices you own or are explicitly authorized to use.
-
-FrogOS includes HID and automation features that can simulate keyboard and mouse input.
-
-Users are responsible for complying with all applicable laws and regulations.
