@@ -1,7 +1,7 @@
 # FrogOS
 
 > ⚠️ This project is currently under development.
-<img width="128" height="64" alt="download" src="https://github.com/user-attachments/assets/8524e0f2-6a97-4f61-85df-e73b203592f7" />
+<img width="128" height="64" alt="pixilart-drawing (1)" src="https://github.com/user-attachments/assets/69b7a599-bce6-437e-b7c3-5f5f609e0b98" />
 
 
 
