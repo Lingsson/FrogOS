@@ -20,7 +20,7 @@ FrogOS is a multi-tool firmware for the Raspberry Pi Pico W.
 
 ### HID / Automation Tools
 - 30+ BADUSB payloads
-- Includes system interaction, UI automation, and network information display (authorized testing only)
+- Includes system interaction, UI automation, and network information display
 
 
 ### Mouse Tools
